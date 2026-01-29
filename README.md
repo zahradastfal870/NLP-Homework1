@@ -35,3 +35,7 @@ newer → n e wer_
 lowest → low e s t _  
 widest → w i d e s t _  
 newestest → n e w e s t e s t _
+
+### Q5 — Tokenization (Persian)
+File:
+- H1_Q5.py
